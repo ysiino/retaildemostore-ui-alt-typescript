@@ -1,0 +1,51 @@
+export const items = [
+  {
+    aliases: [],
+    category: "test",
+    id: "test-1",
+    image: "images/blue-1.jpeg",
+    style: "blue",
+  },
+  {
+    aliases: [],
+    category: "test",
+    id: "test-2",
+    image: "images/orange-1.jpeg",
+    style: "orange",
+  },
+  {
+    aliases: [],
+    category: "test",
+    id: "test-3",
+    image: "images/purple-1.jpeg",
+    style: "purple",
+  },
+  {
+    aliases: [],
+    category: "test",
+    id: "test-4",
+    image: "images/blue-2.jpeg",
+    style: "blue",
+  },
+  {
+    aliases: [],
+    category: "test",
+    id: "test-5",
+    image: "images/green-1.jpeg",
+    style: "green",
+  },
+  {
+    aliases: [],
+    category: "test",
+    id: "test-6",
+    image: "images/green-2.jpeg",
+    style: "green",
+  },
+  {
+    aliases: [],
+    category: "test",
+    id: "test-7",
+    image: "images/orange-2.jpeg",
+    style: "orange",
+  },
+];

@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button.filter {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  margin-bottom: 8px;
+}
+
+button.filter > input {
+  width: 0;
+  height: 0;
+}
+
+button.filter > input:checked + label {
+  color: #b22222;
+  border-color: #b22222;
+}
+
+button.filter > label {
+  color: gray;
+  padding: 5px;
+  border-bottom: 2px solid transparent;
+}
+
+button.filter > label:hover {
+  color: #b22222;
+  cursor: pointer;
+}
